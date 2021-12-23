@@ -1,1 +1,1 @@
-# idle_game
+Expirementing with idle game maker
